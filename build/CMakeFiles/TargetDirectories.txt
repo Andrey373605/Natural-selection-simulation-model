@@ -1,0 +1,4 @@
+/home/andrey/kursach/build-Simulation-Desktop-Debug/CMakeFiles/Simulation.dir
+/home/andrey/kursach/build-Simulation-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/kursach/build-Simulation-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/kursach/build-Simulation-Desktop-Debug/CMakeFiles/Simulation_autogen.dir

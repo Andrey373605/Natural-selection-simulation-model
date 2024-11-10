@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Simulation_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/Simulation_autogen.dir/ParseCache.txt"
+  "Simulation_autogen"
+  "CMakeFiles/Simulation.dir/Simulation_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/Simulation.dir/Simulation_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/Simulation.dir/cell.cpp.o"
+  "CMakeFiles/Simulation.dir/cell.cpp.o.d"
+  "CMakeFiles/Simulation.dir/coord.cpp.o"
+  "CMakeFiles/Simulation.dir/coord.cpp.o.d"
+  "CMakeFiles/Simulation.dir/createpopulationmenu.cpp.o"
+  "CMakeFiles/Simulation.dir/createpopulationmenu.cpp.o.d"
+  "CMakeFiles/Simulation.dir/direction.cpp.o"
+  "CMakeFiles/Simulation.dir/direction.cpp.o.d"
+  "CMakeFiles/Simulation.dir/drawergl.cpp.o"
+  "CMakeFiles/Simulation.dir/drawergl.cpp.o.d"
+  "CMakeFiles/Simulation.dir/field.cpp.o"
+  "CMakeFiles/Simulation.dir/field.cpp.o.d"
+  "CMakeFiles/Simulation.dir/genomslistwidget.cpp.o"
+  "CMakeFiles/Simulation.dir/genomslistwidget.cpp.o.d"
+  "CMakeFiles/Simulation.dir/graphic.cpp.o"
+  "CMakeFiles/Simulation.dir/graphic.cpp.o.d"
+  "CMakeFiles/Simulation.dir/main.cpp.o"
+  "CMakeFiles/Simulation.dir/main.cpp.o.d"
+  "CMakeFiles/Simulation.dir/mainwindow.cpp.o"
+  "CMakeFiles/Simulation.dir/mainwindow.cpp.o.d"
+  "CMakeFiles/Simulation.dir/object.cpp.o"
+  "CMakeFiles/Simulation.dir/object.cpp.o.d"
+  "CMakeFiles/Simulation.dir/settingsmenu.cpp.o"
+  "CMakeFiles/Simulation.dir/settingsmenu.cpp.o.d"
+  "CMakeFiles/Simulation.dir/vectorfileio.cpp.o"
+  "CMakeFiles/Simulation.dir/vectorfileio.cpp.o.d"
+  "Simulation"
+  "Simulation.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Simulation.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
